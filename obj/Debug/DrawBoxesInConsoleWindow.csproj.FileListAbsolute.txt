@@ -1,0 +1,7 @@
+C:\Users\Dell\Downloads\interview task\bin\Debug\DrawBoxesInConsoleWindow.exe.config
+C:\Users\Dell\Downloads\interview task\bin\Debug\DrawBoxesInConsoleWindow.exe
+C:\Users\Dell\Downloads\interview task\bin\Debug\DrawBoxesInConsoleWindow.pdb
+C:\Users\Dell\Downloads\interview task\obj\Debug\DrawBoxesInConsoleWindow.csprojAssemblyReference.cache
+C:\Users\Dell\Downloads\interview task\obj\Debug\DrawBoxesInConsoleWindow.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\interview task\obj\Debug\DrawBoxesInConsoleWindow.exe
+C:\Users\Dell\Downloads\interview task\obj\Debug\DrawBoxesInConsoleWindow.pdb
